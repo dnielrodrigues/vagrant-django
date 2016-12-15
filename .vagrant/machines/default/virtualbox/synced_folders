@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/python":{"guestpath":"/home/vagrant/python","hostpath":"/Users/danielrodrigues/python","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/danielrodrigues/django","disabled":false,"__vagrantfile":true}}}
